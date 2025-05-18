@@ -3,7 +3,7 @@
 // @namespace       https://github.com/hallgatolaszlo/CustomsForge-Ignition4-CDLC-Randomizer
 // @version         1.0.2
 // @description     Random CDLC Picker for CustomsForge
-// @author          Hallgató László (simplified)
+// @author          Hallgató László
 // @license         MIT
 // @match           https://ignition4.customsforge.com/*
 // @grant           none
